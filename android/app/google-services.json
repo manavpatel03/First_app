@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321564929484",
+    "project_id": "dataapp-ab0b7",
+    "storage_bucket": "dataapp-ab0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321564929484:android:92e927c26339de6fb00169",
+        "android_client_info": {
+          "package_name": "com.example.data_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321564929484-12r9eoo227vlvgg3gopnja360rf1bou7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AlAO7cYTu8RUocPDFdlNZ8Vtm_uJf9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321564929484-12r9eoo227vlvgg3gopnja360rf1bou7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
